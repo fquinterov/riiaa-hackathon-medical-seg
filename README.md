@@ -1,1 +1,1 @@
-# riiaa-hackathon-medical-seg
+# RIIAA-hackathon-medical-seg
